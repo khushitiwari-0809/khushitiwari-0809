@@ -23,20 +23,11 @@ I'm a Frontend developer (ReactJS developer)
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /> 
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /> 
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="100" />   
+
 </div>  
 
 <br/>  
 
-## Github Stats  
-<div style="width:300px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altaftech&hide_border=true&layout=compact" align="left" style="width: 50%" />
-</div>
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=&&style=flat-square)  
-
-<br />
 
 <!--
 **khushitiwari-0809/khushitiwari-0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
