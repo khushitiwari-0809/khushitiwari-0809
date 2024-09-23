@@ -1,7 +1,7 @@
 ## Hey 👋, I'm
   
 ### Glad to see you here!  
-I'm a Frontend developer (ReactJS developer) 
+I'm intern in Frontend developer (ReactJS developer) 
 <br/>  
 
 ## Connect with me  
