@@ -1,7 +1,7 @@
 ## Hey 👋, I'm khushi tiwari
   
 ### Glad to see you here!  
-I'm doing internship in Frontend developer (ReactJS developer) 
+I'm doing internship in Frontend development (ReactJS developer) 
 <br/>  
 
 ## Connect with me  
